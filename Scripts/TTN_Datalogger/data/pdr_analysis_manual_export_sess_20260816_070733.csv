@@ -1,0 +1,2 @@
+device_id,min_fcnt,max_fcnt,fcnt_ranges,resets_detected,expected_count,received_count,lost_count,pdr_percent,plr_percent
+node-1,149,13919,149-13919,0,13771,13769,2,99.99,0.01
